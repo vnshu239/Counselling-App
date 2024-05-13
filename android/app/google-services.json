@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501345910354",
+    "project_id": "brainup-b5499",
+    "storage_bucket": "brainup-b5499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501345910354:android:c969c22a0c8f85f5b9298b",
+        "android_client_info": {
+          "package_name": "com.example.brainupp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn0sau6MotH3LjwXg84V_8egM4pBdkCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
