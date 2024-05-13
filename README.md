@@ -1,10 +1,12 @@
 # brainupp
 
-A new Flutter project.
+An app for mental health written in flutter!!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project consist of a simple format of a mental health app which use to make appointments of mentally disturbed people with councellors , psychatrist ...
+It will also work on checking stress scale of person by doing some tests.
+It will also give some best movies , music and books names according to people's mood so that they can feel better!!
 
 A few resources to get you started if this is your first Flutter project:
 
