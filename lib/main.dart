@@ -8,10 +8,10 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyBEn0sau6MotH3LjwXg84V_8egM4pBdkCw",
-      appId: "1:501345910354:android:c969c22a0c8f85f5b9298b",
-      messagingSenderId: "501345910354",
-      projectId: "brainup-b5499",
+      apiKey: "Firebase Api Key",
+      appId: "your api ID",
+      messagingSenderId: "Sender Id",
+      projectId: "Project Id",
     ),
   );
   runApp(const MyApp());
