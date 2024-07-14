@@ -1,6 +1,6 @@
 # brainupp
 
-An app for mental health written in flutter!!
+An app for mental health Created by using flutter and Firebase!!
 
 ## Getting Started
 
