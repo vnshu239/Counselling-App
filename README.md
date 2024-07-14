@@ -2,7 +2,7 @@
 
 An app for mental health Created by using flutter and Firebase!!
 
-## Getting Started
+## Desciption
 
 This project consist of a simple format of a mental health app which use to make appointments of mentally disturbed people with councellors , psychatrist ...
 It will also work on checking stress scale of person by doing some tests.
