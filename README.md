@@ -1,4 +1,4 @@
-# brainupp
+# Counselling App
 
 An app for mental health Created by using flutter and Firebase!!
 
